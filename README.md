@@ -2,11 +2,6 @@
    <h1>Hi there, I'm <a href="https://blakemoran.com">Blake</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/blake-moran-286bb9370/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/calledblake"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
- </p>
-
 
 
 <div align="center">
